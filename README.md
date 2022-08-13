@@ -8,7 +8,7 @@ Before installation don't forget to check SHA256 hash, and GPG signature. Instru
 
 Installation:
 -------------
-To install application in your OS download "tkz_8.22-1_all.deb" and use "sudo dpkg <package name>" to install it.
+To install application in your OS download "tkz_8.22-1_all.deb" and use "sudo dpkg {package name}" to install it.
 
 
 

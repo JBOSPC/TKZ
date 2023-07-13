@@ -8,7 +8,7 @@ SHA512 hash verification:
 2. Go to the directory where files were downloaded, using cd:
 For example: cd ~/Downloads 
 3. Verify hash file: 
-sha256sum --ignore-missing --check SHA512SUMS
+sha512sum --ignore-missing --check SHA512SUMS
 
 Gpg signature verification:
 -------------------------
